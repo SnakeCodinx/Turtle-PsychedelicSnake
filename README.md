@@ -3,7 +3,7 @@
 A mesmerizing Python script that generates a vibrant, psychedelic snake-like pattern using the Turtle graphics library. The Psychedelic Snake is a hypnotic display of color and motion, perfect for art, design, and coding enthusiasts.
 
 # Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube]())
+click on the link to see :- ([Open in Youtube](https://youtu.be/Fa-eR5aU8eo))
 
 # Screenshot
 
